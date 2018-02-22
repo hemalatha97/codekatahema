@@ -5,13 +5,13 @@ using namespace std;
 int main(){
     {
 
-int i,n,x,large=0;
+int a,i,x,large=0;
 
 cout<<"How many numbers";
 cin>>n;
-for(i=0;i<n;++i)
+for(a=0;a<i;++a)
 {
-cout<<"nEnter number" <<i+1<<":";
+cout<<"nEnter number" <<a+1<<":";
 cin>>x;
 if(x>large)
 large=x;
