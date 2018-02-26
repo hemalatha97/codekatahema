@@ -1,4 +1,4 @@
-main()
+int main()
 {
    int n, c, first = 0, second = 1, next;
  
