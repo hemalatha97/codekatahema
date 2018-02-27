@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     {
-    switch (printf("Hello World ")) 
+    if (cout << "hello world ") 
     {
     
     }
